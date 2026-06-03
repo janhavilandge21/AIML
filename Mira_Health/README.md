@@ -195,16 +195,4 @@ screenshots/
 
 ---
 
-## 📧 Submission
-
-- **GitHub Repo:** `https://github.com/YOUR_USERNAME/mira-health-prediction`
-- **Demo Video:** Screen recording demonstrating all CRUD operations + AI prediction
-- **Email:** jobs@gokulinfocare.com
-
----
-
-## 📄 Licence
-
-This project was created as a technical assessment submission.  
-© 2025 — All rights reserved.
 

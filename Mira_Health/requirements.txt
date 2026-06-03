@@ -1,0 +1,9 @@
+# MIRA Health Prediction App — Python Dependencies
+# Compatible with Python 3.11+
+#
+# Install with:  pip install -r requirements.txt
+
+streamlit>=1.35.0        # Web UI framework
+scikit-learn>=1.4.0      # Random Forest Classifier
+pandas>=2.2.0            # DataFrame operations in the UI
+numpy>=1.26.0            # Numerical arrays for model input
